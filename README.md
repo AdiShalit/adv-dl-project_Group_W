@@ -43,6 +43,18 @@ Below is the explanation of the process and how to use the notebooks.
 
 ---
 
+### 5. **Group_W_Models_Ensembling.ipynb**
+- This notebook combines predictions from multiple trained models to improve performance.  
+- Required model files (must be downloaded from Drive):
+  - `adv_dl_models_final/roberta_base_best_manual.pt`  
+  - `adv_dl_models_final2_best/roberta_base_best_set2.pt`  
+  - `microsoft__mdeberta-v3-base_ex5_trainer-try__final_20250817_104013/best_model`  
+  - `microsoft__mdeberta-v3-base_full_ex_4_20250817_133620/`  
+
+👉 Place these files in the same directory structure as expected by the notebook before running.
+
+---
+
 ### 6–9. **Compression Notebooks**
 - **Group_W_Compression_ex4_roberta_base.ipynb**  
 - **Group_W_Compression_ex5_roberta_base.ipynb**  
