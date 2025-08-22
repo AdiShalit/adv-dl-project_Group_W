@@ -13,8 +13,7 @@ Below is the explanation of the process and how to use the notebooks.
 - Output: A `cleaned_csv` file used for all training stages.  
 ⚠️ **Important:** Since translation to English is model-based, re-running this notebook may produce a different CSV.  
 👉 Please use the **existing CSV in the repository** for consistency in the training phase.
-Corona_NLP_train_cleaned_translated.csv
-Corona_NLP_test_cleaned_translated.csv
+['Corona_NLP_train_cleaned_translated.csv','Corona_NLP_test_cleaned_translated.csv']
 
 ---
 
